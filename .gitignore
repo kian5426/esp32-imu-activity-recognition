@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Proteus clutter (keep only the main .pdsprj)
+Project Backups/
+*.workspace
+*.pdsprj.*.workspace
+*.pdsbak
+
+# Local recordings (committed datasets live in data/raw and data/processed)
+data/local/

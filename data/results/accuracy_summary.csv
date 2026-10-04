@@ -1,0 +1,6 @@
+label,total_windows,correct,accuracy_percent
+Walking,545,495,90.83
+Running,339,319,94.1
+Up-stairs,502,344,68.53
+Down-stairs,563,139,24.69
+OVERALL,1949,1297,66.55
